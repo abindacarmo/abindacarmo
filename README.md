@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <p align="center">
-  <img width="200" src="https://github.com/#" alt="Profile Picture" style="border-radius:50%" />
+  <img width="200" src="https://github.com/abindacarmo.png" alt="Profile Picture" style="border-radius:50%" />
 </p>
 
 <p align="center">
