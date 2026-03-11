@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi,+I+am+Abindaaa...;I+am+a+Software+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi,+I+am+Abindaaa...;Aspiring+Data+Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=FF5733&center=true&vCenter=true&width=500&lines=Open+Source+Lover;Always+Learning;Data Engineering+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=FF5733&center=true&vCenter=true&width=500&lines=💻 Open Source Lover • 📚 Always Learning • 🔍 Data Engineering Enthusiast" />
 </p>
 
-<h3 align="center">Backend Developer | Data Engineering & Data Analysis Enthusiast| Passionate About Web & Open Source</h3>
+<h3 align="center">Aspiring Data Engineer • Database & Data Analysis Enthusiast • Passionate About Open Source and Systems</h3>
 
 <p align="center">
   <a href="https://github.com/abindacarmo">
@@ -23,7 +23,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently studying at the Faculty of Engineering, Department of Informatics Engineering, focusing on Web Apps and Software Engineering projects
+- 🔭 I’m currently studying Informatics Engineering at the Faculty of Engineering, focusing on System Development, Data Engineering, and Database Engineering
 - 🌱 I’m currently learning Python, Data Engineering, and Database Engineering
 - 💬 Ask me about Python, SQL, Databases, PHP and Data Systems
 - ⚡ Fun fact: I love automotive, music, and data… sounds random, but I enjoy them all 😄
