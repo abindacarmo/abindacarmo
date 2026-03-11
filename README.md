@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=FF5733&center=true&vCenter=true&width=500&lines=Open+Source+Lover;Always+Learning;Data Engineering+Enthusiast" />
 </p>
 
-<h3 align="center">Backend Developer | Data engineering & Data analyse Enthusiast | Passionate About Web & Open Source</h3>
+<h3 align="center">Backend Developer | Data Engineering & Data Analysis Enthusiast| Passionate About Web & Open Source</h3>
 
 <p align="center">
   <a href="https://github.com/abindacarmo">
@@ -23,10 +23,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently studying about Faculty of engineering, Web Apps & software engineering projects  
-- 🌱 I’m currently learning Advanced Python, backend Development & Data engineering  
-- 💬 Ask me about Programming, Tech & startup  
-- ⚡ Fun fact: I love automotive and music 
+- 🔭 I’m currently studying at the Faculty of Engineering, Department of Informatics Engineering, focusing on Web Apps and Software Engineering projects
+- 🌱 I’m currently learning Python, Data Engineering, and Database Engineering
+- 💬 Ask me about Python, SQL, Databases, PHP and Data Systems
+- ⚡ Fun fact: I love automotive, music, and data… sounds random, but I enjoy them all 😄
 
 ---
 
