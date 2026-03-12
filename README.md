@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=FF5733&center=true&vCenter=true&width=500&lines=💻 Open Source Lover • 📚 Always Learning • 🔍 Data Engineering Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=FF5733&center=true&vCenter=true&width=500&lines=Open+Source+Lover;Always+Learning;Data+Engineering+Enthusiast" />
 </p>
 
 <h3 align="center">Aspiring Data Engineer • Database & Data Analysis Enthusiast • Passionate About Open Source and Systems</h3>
