@@ -71,16 +71,6 @@
 
 ---
 
-### 👀 Visitor Count
-
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/abindacarmo/count.svg)
-
-</div>
-
----
-
 <div align="center">
 
 *"Dreams don’t require sleep."* ✨
