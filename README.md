@@ -21,6 +21,7 @@
 ### 👩‍💻 About Me
 
 - 🔭 I'm currently studying **Information Technology** at UNTL, Faculty of Science & Technology
+- 🔭 I'm currently studying Python and SQL for data engineering
 - 🌱 I'm always learning and improving my skills
 - 💬 Ask me about **Python** and **PHP**
 - 📫 Reach me at: **github.com/abindacarmo**
