@@ -1,12 +1,11 @@
 <div align="center">
 
 <!-- Wave top -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=header&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20I'm%20Brigida%20👋&fontSize=40&fontAlign=50&fontAlignY=40&animation=twinkling&fontColor=ffffff"/>
+<!-- Profile Photo 
+<img src="https://github.com/abindacarmo.png" width="130" style="border-radius: 50%;" alt="Brigida's Profile Picture"/> -->
 
-<!-- Profile Photo -->
-<img src="https://github.com/abindacarmo.png" width="130" style="border-radius: 50%;" alt="Brigida's Profile Picture"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Brigida!+%F0%9F%91%8B;Backend+Developer+%F0%9F%9A%80;Data+Engineering+Enthusiast+%F0%9F%90%8D;Always+learning+new+things+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Data+Engineering+Enthusiast;Always+learning+new+things+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <!-- Colorful animated text badges 
 ![](https://img.shields.io/badge/-%F0%9F%92%9C%20Backend%20Developer-%23b44fde?style=flat-square)
