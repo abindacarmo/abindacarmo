@@ -23,7 +23,7 @@
 - 🔭 I'm currently studying about Python and SQL for data engineering
 - 🌱 I'm always learning and improving my skills
 - 💬 Ask me about **Python** and **PHP**
-- 📫 Reach me at: **github.com/abindacarmo**
+<!--- - 📫 Reach me at: **github.com/abindacarmo** -->
 - ⚡ Fun fact: I love building things behind the scenes and I love automotive!
 
 ---
