@@ -57,6 +57,9 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abindacarmo&theme=tokyonight&hide_border=true" />
 
+<!--add current activity-->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abindacarmo&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+
 </div>
 
 ---
