@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abindacarmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=abindacarmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" /> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abindacarmo&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
@@ -57,8 +57,8 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abindacarmo&theme=tokyonight&hide_border=true" />
 
-<!--add current activity-->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abindacarmo&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<!--add current activity
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abindacarmo&theme=tokyonight&hide_border=true&count_private=true" height="165" /> -->
 
 </div>
 
