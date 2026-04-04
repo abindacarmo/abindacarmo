@@ -45,14 +45,11 @@
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abindacarmo&theme=tokyonight&hide_border=true" />
-
-<!--add current activity
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abindacarmo&theme=tokyonight&hide_border=true&count_private=true" height="165" /> -->
-
+<img src="https://github-readme-stats-mu-virid-92.vercel.app/api?username=abindacarmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12" height="180" alt="GitHub Stats" />
+</div>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=abindacarmo&theme=tokyonight&hide_border=true&hide_logo=true" height="180" />
 </div>
 
 ---
