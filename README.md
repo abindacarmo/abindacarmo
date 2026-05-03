@@ -65,7 +65,7 @@
 
 <div align="center">
 
-*"Dreams don’t require sleep."* ✨
+*"live ur life"* ✨
 
 <!-- Wave bottom -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer&animation=fadeIn" />
