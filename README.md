@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Wave top -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20I'm%20Brigida%20👋&fontSize=40&fontAlign=50&fontAlignY=40&animation=twinkling&fontColor=ffffff"/>
+![banner](assets/banner.png)
 <!-- Profile Photo 
 <img src="https://github.com/abindacarmo.png" width="130" style="border-radius: 50%;" alt="Brigida's Profile Picture"/> -->
 
