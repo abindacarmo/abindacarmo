@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Wave top -->
-![banner](assets/banner.png)
+![banner](assets/github_banner_brigida_elegant.svg)
 <!-- Profile Photo 
 <img src="https://github.com/abindacarmo.png" width="130" style="border-radius: 50%;" alt="Brigida's Profile Picture"/> -->
 
