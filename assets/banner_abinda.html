@@ -1,0 +1,221 @@
+
+<style>
+  .banner {
+  width: 100%;
+  height: 200px;
+
+  background: linear-gradient(
+    135deg,
+    #1E0A2E 0%,
+    #220D1C 50%,
+    #1A0E28 100%
+  );
+
+  background-size: 300% 300%;
+
+  animation: gradientMove 8s ease infinite;
+
+  border-radius: 14px;
+  position: relative;
+  overflow: hidden;
+  font-family: 'Courier New', monospace;
+}
+  @keyframes floatIcon {
+    0%   { transform: translateY(0px) rotate(var(--r)); opacity: var(--o); }
+    50%  { transform: translateY(-10px) rotate(var(--r)); opacity: calc(var(--o) * 1.7); }
+    100% { transform: translateY(0px) rotate(var(--r)); opacity: var(--o); }
+  }
+  .left-bar-top {
+    position: absolute;
+    left: 36px; top: 34px;
+    width: 2.5px; height: 38px;
+    background: #E91E8C;
+    opacity: 0.85;
+    border-radius: 1px;
+  }
+  .left-bar-bot {
+    position: absolute;
+    left: 36px; top: 76px;
+    width: 2.5px; height: 42px;
+    background: #9C27B0;
+    opacity: 0.65;
+    border-radius: 1px;
+  }
+  .bracket-tr {
+    position: absolute;
+    top: 10px; right: 12px;
+    width: 22px; height: 22px;
+    border-top: 1.2px solid #E91E8C;
+    border-right: 1.2px solid #E91E8C;
+    opacity: 0.6;
+  }
+  .bracket-bl {
+    position: absolute;
+    bottom: 10px; left: 12px;
+    width: 22px; height: 22px;
+    border-bottom: 1.2px solid #9C27B0;
+    border-left: 1.2px solid #9C27B0;
+    opacity: 0.6;
+  }
+  .content {
+    position: absolute;
+    left: 50px; top: 0; bottom: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0;
+  }
+  .greeting {
+    font-size: 11px;
+    color: #CE93D8;
+    letter-spacing: 3px;
+    margin-bottom: 4px;
+  }
+  .name {
+    font-family: Georgia, serif;
+    font-size: 52px;
+    font-weight: bold;
+    color: #FAF0FF;
+    line-height: 1;
+    margin-bottom: 8px;
+  }
+  .name span { color: #E91E8C; }
+  .name .dot { color: #9C27B0; font-size: 44px; }
+  .tagline {
+    font-size: 12px;
+    color: #CE93D8;
+    margin-bottom: 10px;
+  }
+  .tagline .arrow { color: #7B4F8E; }
+  .tagline .highlight { color: #F48FB1; }
+  .pills {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+  }
+  .pill {
+    font-family: 'Courier New', monospace;
+    font-size: 10px;
+    padding: 3px 11px;
+    border-radius: 11px;
+    border: 0.8px solid #9C27B0;
+    background: #2e0e3e;
+    color: #E1BEE7;
+  }
+  .pill.hot {
+    border: 1.2px solid #E91E8C;
+    background: #300618;
+    color: #F48FB1;
+  }
+  .status {
+    position: absolute;
+    bottom: 14px;
+    right: 20px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-family: 'Courier New', monospace;
+    font-size: 10px;
+    color: #F48FB1;
+  }
+  .dot-pulse {
+    width: 7px; height: 7px;
+    background: #E91E8C;
+    border-radius: 50%;
+    animation: pulse 1.8s ease-in-out infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.4; transform: scale(0.7); }
+  }
+
+  @keyframes gradientMove {
+
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+
+}
+</style>
+
+<div class="banner">
+  <div class="top-line"></div>
+  <div class="bot-line"></div>
+  <div class="icons-layer" id="iconsLayer"></div>
+  <div class="left-bar-top"></div>
+  <div class="left-bar-bot"></div>
+  <div class="bracket-tr"></div>
+  <div class="bracket-bl"></div>
+
+  <div class="content">
+    <div class="greeting">HI THERE ✦ I'M</div>
+    <div class="name">Brig<span>ida</span><span class="dot">_</span></div>
+    <div class="tagline">Web dev <span class="arrow">→</span> <span class="highlight">Data Engineer</span> <span class="arrow">in progress</span></div>
+    <div class="pills">
+      <span class="pill">PHP</span>
+      <span class="pill">SQL</span>
+      <span class="pill hot">Python ✦</span>
+      <span class="pill">Kotlin</span>
+      <span class="pill">Git</span>
+      <span class="pill">Linux</span>
+      <span class="pill hot">Data Eng. ↗</span>
+    </div>
+  </div>
+
+  <div class="status">
+    <div class="dot-pulse"></div>
+    always learning
+  </div>
+</div>
+
+<script>
+const icons = ['</>', '{}', 'fn()', '[]', '#!', '<div>', '&&', ':=', '~/', 'def', 'git', 'sql', 'pip', 'df', 'php', 'null', 'int', '=>', 'py', '★', '▸', 'for', '::', '++', 'var', 'SELECT', 'import'];
+const colors = ['#E91E8C', '#CE93D8', '#F48FB1', '#9C27B0', '#F06292'];
+const layer = document.getElementById('iconsLayer');
+
+for (let i = 0; i < 30; i++) {
+  const el = document.createElement('span');
+  el.className = 'icon';
+  el.textContent = icons[i % icons.length];
+
+  const x = Math.random() * 96;
+  const y = Math.random() * 88;
+  const size = 9 + Math.floor(Math.random() * 7);
+  const opacity = 0.2 + Math.random() * 0.25;
+  const rotate = -15 + Math.random() * 30;
+  const duration = 3 + Math.random() * 4;
+  const delay = -Math.random() * 6;
+  const color = colors[Math.floor(Math.random() * colors.length)];
+
+  el.style.cssText = `
+    left: ${x}%;
+    top: ${y}%;
+    font-size: ${size}px;
+    color: ${color};
+    --o: ${opacity};
+    --r: ${rotate}deg;
+    animation-duration: ${duration}s;
+    animation-delay: ${delay}s;
+  `;
+  layer.appendChild(el);
+}
+</script>
+
+
+
+
+# 🐍 Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
