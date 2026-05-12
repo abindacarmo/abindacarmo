@@ -1,119 +1,105 @@
-<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="210" viewBox="0 0 810 210" xmlns="http://www.w3.org/2000/svg" style="">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#1E0A2E"/>
-      <stop offset="50%" stop-color="#220D1C"/>
-      <stop offset="100%" stop-color="#1A0E28"/>
+      <stop offset="0%" stop-color="#1A0D12"/>
+      <stop offset="50%" stop-color="#180C10"/>
+      <stop offset="100%" stop-color="#1C0E14"/>
     </linearGradient>
     <linearGradient id="tl" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#E91E8C" stop-opacity="0"/>
-      <stop offset="40%" stop-color="#E91E8C" stop-opacity="1"/>
-      <stop offset="65%" stop-color="#9C27B0" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#9C27B0" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#FACCD9" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#FACCD9" stop-opacity="1"/>
+      <stop offset="65%" stop-color="#D9A0B2" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#D9A0B2" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="bl" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#9C27B0" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#E91E8C" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#E91E8C" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#D9A0B2" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FACCD9" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#FACCD9" stop-opacity="0"/>
     </linearGradient>
-  </defs>
+  <mask id="imagine-text-gaps-b7upa9" maskUnits="userSpaceOnUse"><rect x="0" y="0" width="810" height="210" fill="white"/><rect x="346" y="31.137001037597656" width="36.7549991607666" height="18.175000190734863" fill="black" rx="2"/><rect x="476" y="147.28460693359375" width="34.392499923706055" height="18.175000190734863" fill="black" rx="2"/><rect x="14" y="79.61321258544922" width="32.03000068664551" height="16.149999618530273" fill="black" rx="2"/><rect x="116" y="19.829221725463867" width="40.990623474121094" height="18.175000190734863" fill="black" rx="2"/><rect x="56" y="65.96416473388672" width="32.03000068664551" height="16.149999618530273" fill="black" rx="2"/><rect x="346" y="149.5192108154297" width="34.392499923706055" height="18.175000190734863" fill="black" rx="2"/><rect x="396" y="16.591346740722656" width="26.022499084472656" height="16.149999618530273" fill="black" rx="2"/><rect x="396" y="94.49225616455078" width="32.03000068664551" height="16.149999618530273" fill="black" rx="2"/><rect x="266" y="128.92349243164062" width="27.794374465942383" height="18.175000190734863" fill="black" rx="2"/><rect x="696" y="112.54166412353516" width="32.03000068664551" height="16.149999618530273" fill="black" rx="2"/><rect x="596" y="42.37950134277344" width="32.03000068664551" height="16.149999618530273" fill="black" rx="2"/><rect x="546" y="155.12449645996094" width="14.614999771118164" height="18.175000190734863" fill="black" rx="2"/><rect x="646" y="8.567777633666992" width="36.7549991607666" height="18.175000190734863" fill="black" rx="2"/><rect x="746" y="153.34629821777344" width="32.03000068664551" height="16.149999618530273" fill="black" rx="2"/><rect x="326" y="29.676803588867188" width="26.022499084472656" height="16.149999618530273" fill="black" rx="2"/><rect x="46" y="48.86249923706055" width="238.4618682861328" height="19.1875" fill="black" rx="2"/><rect x="44" y="60.3125" width="221.58688354492188" height="75.88749694824219" fill="black" rx="2"/><rect x="46" y="137.875" width="259.60626220703125" height="18.175003051757812" fill="black" rx="2"/><rect x="696" y="170.8874969482422" width="98.11250305175781" height="16.149999618530273" fill="black" rx="2"/></mask></defs>
 
-  <!-- Background -->
-  <rect width="800" height="200" fill="url(#bg)" rx="14"/>
+  <rect width="800" height="200" fill="url(#bg)" rx="14" style="stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="0" y="0" width="800" height="2" fill="url(#tl)" style="stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="0" y="198" width="800" height="2" fill="url(#bl)" style="stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
 
-  <!-- Top & bottom accent lines -->
-  <rect x="0" y="0" width="800" height="2" fill="url(#tl)"/>
-  <rect x="0" y="198" width="800" height="2" fill="url(#bl)"/>
+  <rect x="36" y="34" width="2.5" height="38" fill="#FACCD9" opacity="0.85" rx="1" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.85;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="36" y="76" width="2.5" height="42" fill="#D9A0B2" opacity="0.65" rx="1" style="fill:rgb(217, 160, 178);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.65;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
 
-  <!-- Left accent bars -->
-  <rect x="36" y="34" width="2.5" height="38" fill="#E91E8C" opacity="0.85" rx="1"/>
-  <rect x="36" y="76" width="2.5" height="42" fill="#9C27B0" opacity="0.65" rx="1"/>
+  <polyline points="768,10 790,10 790,32" fill="none" stroke="#FACCD9" stroke-width="1.2" opacity="0.6" style="fill:none;stroke:rgb(250, 204, 217);color:rgb(251, 251, 254);stroke-width:1.2px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.6;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <polyline points="32,190 10,190 10,168" fill="none" stroke="#D9A0B2" stroke-width="1.2" opacity="0.6" style="fill:none;stroke:rgb(217, 160, 178);color:rgb(251, 251, 254);stroke-width:1.2px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.6;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
 
-  <!-- Corner brackets -->
-  <polyline points="768,10 790,10 790,32" fill="none" stroke="#E91E8C" stroke-width="1.2" opacity="0.6"/>
-  <polyline points="32,190 10,190 10,168" fill="none" stroke="#9C27B0" stroke-width="1.2" opacity="0.6"/>
-
-  <!-- Floating code icons with SVG animate -->
-  <text x="350" y="150" font-family="Courier New, monospace" font-size="12" fill="#E91E8C" opacity="0.35" transform="rotate(-8,30,50)">&lt;/&gt;
-    <animate attributeName="y" values="50;38;50" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.35;0.6;0.35" dur="4s" repeatCount="indefinite"/>
+  <text x="350" y="150" font-family="Courier New, monospace" font-size="12" fill="#FACCD9" opacity="0.35" transform="rotate(-8,30,50)" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.38925;font-family:Courier New, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">&lt;/&gt;
+    <animate attributeName="y" values="50;38;50" dur="4s" repeatCount="indefinite" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <animate attributeName="opacity" values="0.35;0.6;0.35" dur="4s" repeatCount="indefinite" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
   </text>
-  <text x="480" y="160" font-family="Courier New, monospace" font-size="11" fill="#CE93D8" opacity="0.3" transform="rotate(6,80,160)">{  }
-    <animate attributeName="y" values="160;148;160" dur="5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.3;0.55;0.3" dur="5s" repeatCount="indefinite"/>
+  <text x="480" y="160" font-family="Courier New, monospace" font-size="11" fill="#FACCD9" opacity="0.3" transform="rotate(6,80,160)" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.3686;font-family:Courier New, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">{  }
+    <animate attributeName="y" values="160;148;160" dur="5s" repeatCount="indefinite" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <animate attributeName="opacity" values="0.3;0.55;0.3" dur="5s" repeatCount="indefinite" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
   </text>
-  <text x="18" y="100" font-family="Courier New, monospace" font-size="10" fill="#F48FB1" opacity="0.28">def
-    <animate attributeName="y" values="100;90;100" dur="3.5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.28;0.5;0.28" dur="3.5s" repeatCount="indefinite"/>
+  <text x="18" y="100" font-family="Courier New, monospace" font-size="10" fill="#FACCD9" opacity="0.28" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.36624;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto">def
+    <animate attributeName="y" values="100;90;100" dur="3.5s" repeatCount="indefinite" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <animate attributeName="opacity" values="0.28;0.5;0.28" dur="3.5s" repeatCount="indefinite" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
   </text>
-  <text x="120" y="35" font-family="Courier New, monospace" font-size="11" fill="#E91E8C" opacity="0.32" transform="rotate(5,120,35)">fn()
-    <animate attributeName="y" values="35;24;35" dur="4.5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.32;0.58;0.32" dur="4.5s" repeatCount="indefinite"/>
+  <text x="120" y="35" font-family="Courier New, monospace" font-size="11" fill="#FACCD9" opacity="0.32" transform="rotate(5,120,35)" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.356284;font-family:Courier New, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">fn()
+    <animate attributeName="y" values="35;24;35" dur="4.5s" repeatCount="indefinite" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <animate attributeName="opacity" values="0.32;0.58;0.32" dur="4.5s" repeatCount="indefinite" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
   </text>
-  <text x="60" y="80" font-family="Courier New, monospace" font-size="10" fill="#CE93D8" opacity="0.3" transform="rotate(-5,60,80)">git
-    <animate attributeName="y" values="80;70;80" dur="6s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.3;0.52;0.3" dur="6s" repeatCount="indefinite"/>
+  <text x="60" y="80" font-family="Courier New, monospace" font-size="10" fill="#D9A0B2" opacity="0.3" transform="rotate(-5,60,80)" style="fill:rgb(217, 160, 178);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.323027;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto">git
+    <animate attributeName="y" values="80;70;80" dur="6s" repeatCount="indefinite" style="fill:rgb(217, 160, 178);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <animate attributeName="opacity" values="0.3;0.52;0.3" dur="6s" repeatCount="indefinite" style="fill:rgb(217, 160, 178);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
   </text>
-  <text x="350" y="170" font-family="Courier New, monospace" font-size="11" fill="#F48FB1" opacity="0.28" transform="rotate(-7,170,170)">sql
-    <animate attributeName="y" values="170;158;170" dur="3.8s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.28;0.5;0.28" dur="3.8s" repeatCount="indefinite"/>
+  <text x="350" y="170" font-family="Courier New, monospace" font-size="11" fill="#FACCD9" opacity="0.28" transform="rotate(-7,170,170)" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.452063;font-family:Courier New, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">sql
+    <animate attributeName="y" values="170;158;170" dur="3.8s" repeatCount="indefinite" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <animate attributeName="opacity" values="0.28;0.5;0.28" dur="3.8s" repeatCount="indefinite" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
   </text>
-  <text x="400" y="160" font-family="Courier New, monospace" font-size="10" fill="#E91E8C" opacity="0.3" transform="rotate(4,210,28)">&amp;&amp;
-    <animate attributeName="y" values="28;18;28" dur="5.2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.3;0.55;0.3" dur="5.2s" repeatCount="indefinite"/>
+  <text x="400" y="160" font-family="Courier New, monospace" font-size="10" fill="#FACCD9" opacity="0.3" transform="rotate(4,210,28)" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.368654;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto">&amp;&amp;
+    <animate attributeName="y" values="28;18;28" dur="5.2s" repeatCount="indefinite" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <animate attributeName="opacity" values="0.3;0.55;0.3" dur="5.2s" repeatCount="indefinite" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
   </text>
-  <text x="400" y="160" font-family="Courier New, monospace" font-size="10" fill="#CE93D8" opacity="0.28">[ ]
-    <animate attributeName="y" values="110;100;110" dur="4.2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.28;0.5;0.28" dur="4.2s" repeatCount="indefinite"/>
+  <text x="400" y="160" font-family="Courier New, monospace" font-size="10" fill="#D9A0B2" opacity="0.28" style="fill:rgb(217, 160, 178);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.498533;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto">[ ]
+    <animate attributeName="y" values="110;100;110" dur="4.2s" repeatCount="indefinite" style="fill:rgb(217, 160, 178);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <animate attributeName="opacity" values="0.28;0.5;0.28" dur="4.2s" repeatCount="indefinite" style="fill:rgb(217, 160, 178);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
   </text>
-  <text x="270" y="150" font-family="Courier New, monospace" font-size="11" fill="#F48FB1" opacity="0.3" transform="rotate(6,240,150)">=&gt;
-    <animate attributeName="y" values="150;140;150" dur="3.3s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.3;0.55;0.3" dur="3.3s" repeatCount="indefinite"/>
+  <text x="270" y="150" font-family="Courier New, monospace" font-size="11" fill="#FACCD9" opacity="0.3" transform="rotate(6,240,150)" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.39303;font-family:Courier New, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">=&gt;
+    <animate attributeName="y" values="150;140;150" dur="3.3s" repeatCount="indefinite" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <animate attributeName="opacity" values="0.3;0.55;0.3" dur="3.3s" repeatCount="indefinite" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
   </text>
-  <text x="700" y="125" font-family="Courier New, monospace" font-size="10" fill="#E91E8C" opacity="0.28" transform="rotate(-4,100,125)">php
-    <animate attributeName="y" values="125;115;125" dur="4.8s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.28;0.52;0.28" dur="4.8s" repeatCount="indefinite"/>
+  <text x="700" y="125" font-family="Courier New, monospace" font-size="10" fill="#FACCD9" opacity="0.28" transform="rotate(-4,100,125)" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.4886;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto">php
+    <animate attributeName="y" values="125;115;125" dur="4.8s" repeatCount="indefinite" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <animate attributeName="opacity" values="0.28;0.52;0.28" dur="4.8s" repeatCount="indefinite" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
   </text>
-  <text x="600" y="55" font-family="Courier New, monospace" font-size="10" fill="#CE93D8" opacity="0.3" transform="rotate(7,280,55)">for
-    <animate attributeName="y" values="55;44;55" dur="5.5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.3;0.55;0.3" dur="5.5s" repeatCount="indefinite"/>
+  <text x="600" y="55" font-family="Courier New, monospace" font-size="10" fill="#D9A0B2" opacity="0.3" transform="rotate(7,280,55)" style="fill:rgb(217, 160, 178);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.544182;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto">for
+    <animate attributeName="y" values="55;44;55" dur="5.5s" repeatCount="indefinite" style="fill:rgb(217, 160, 178);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <animate attributeName="opacity" values="0.3;0.55;0.3" dur="5.5s" repeatCount="indefinite" style="fill:rgb(217, 160, 178);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
   </text>
-  <text x="550" y="175" font-family="Courier New, monospace" font-size="11" fill="#E91E8C" opacity="0.28" transform="rotate(-6,320,175)">★
-    <animate attributeName="y" values="175;163;175" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.28;0.55;0.28" dur="4s" repeatCount="indefinite"/>
+  <text x="550" y="175" font-family="Courier New, monospace" font-size="11" fill="#FACCD9" opacity="0.28" transform="rotate(-6,320,175)" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.32239;font-family:Courier New, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">★
+    <animate attributeName="y" values="175;163;175" dur="4s" repeatCount="indefinite" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <animate attributeName="opacity" values="0.28;0.55;0.28" dur="4s" repeatCount="indefinite" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
   </text>
-  <text x="650" y="30" font-family="Courier New, monospace" font-size="12" fill="#F48FB1" opacity="0.3" transform="rotate(5,350,30)">&lt;/&gt;
-    <animate attributeName="y" values="30;19;30" dur="3.6s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.3;0.56;0.3" dur="3.6s" repeatCount="indefinite"/>
+  <text x="650" y="30" font-family="Courier New, monospace" font-size="12" fill="#FACCD9" opacity="0.3" transform="rotate(5,350,30)" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.345356;font-family:Courier New, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">&lt;/&gt;
+    <animate attributeName="y" values="30;19;30" dur="3.6s" repeatCount="indefinite" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <animate attributeName="opacity" values="0.3;0.56;0.3" dur="3.6s" repeatCount="indefinite" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
   </text>
-  <text x="750" y="165" font-family="Courier New, monospace" font-size="10" fill="#CE93D8" opacity="0.28" transform="rotate(-5,400,165)">int
-    <animate attributeName="y" values="165;154;165" dur="5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.28;0.5;0.28" dur="5s" repeatCount="indefinite"/>
+  <text x="750" y="165" font-family="Courier New, monospace" font-size="10" fill="#D9A0B2" opacity="0.28" transform="rotate(-5,400,165)" style="fill:rgb(217, 160, 178);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.340368;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto">int
+    <animate attributeName="y" values="165;154;165" dur="5s" repeatCount="indefinite" style="fill:rgb(217, 160, 178);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <animate attributeName="opacity" values="0.28;0.5;0.28" dur="5s" repeatCount="indefinite" style="fill:rgb(217, 160, 178);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
   </text>
-  <text x="330" y="165" font-family="Courier New, monospace" font-size="10" fill="#E91E8C" opacity="0.28">py
-    <animate attributeName="y" values="45;34;45" dur="4.3s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.28;0.52;0.28" dur="4.3s" repeatCount="indefinite"/>
+  <text x="330" y="165" font-family="Courier New, monospace" font-size="10" fill="#FACCD9" opacity="0.28" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.423553;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto">py
+    <animate attributeName="y" values="45;34;45" dur="4.3s" repeatCount="indefinite" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <animate attributeName="opacity" values="0.28;0.52;0.28" dur="4.3s" repeatCount="indefinite" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
   </text>
 
-  <!-- Greeting -->
-  <text x="50" y="62" font-family="Courier New, monospace" font-size="11" fill="#CE93D8" letter-spacing="3">Hello from &#x2736; [readme.md]</text>
+  <text x="50" y="62" font-family="Courier New, monospace" font-size="11" fill="#D9A0B2" letter-spacing="3" style="fill:rgb(217, 160, 178);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">Hello from ✶ [readme.md]</text>
 
-  <!-- Main name -->
-  <text x="48" y="118" font-family="Georgia, serif" font-size="52" font-weight="bold" fill="#FAF0FF" letter-spacing="1">Brig<tspan fill="#E91E8C">ida</tspan><tspan font-size="44" fill="#9C27B0">.</tspan></text>
+  <text x="48" y="118" font-family="Georgia, serif" font-size="52" font-weight="bold" fill="#FFF0F4" letter-spacing="1" style="fill:rgb(255, 240, 244);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, serif;font-size:52px;font-weight:700;text-anchor:start;dominant-baseline:auto">Brig<tspan fill="#FACCD9" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, serif;font-size:52px;font-weight:700;text-anchor:start;dominant-baseline:auto">ida</tspan><tspan font-size="44" fill="#D9A0B2" style="fill:rgb(217, 160, 178);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, serif;font-size:44px;font-weight:700;text-anchor:start;dominant-baseline:auto">.</tspan></text>
 
-  <!-- Tagline -->
-  <text x="50" y="150" font-family="Courier New, monospace" font-size="12" fill="#CE93D8">Web dev <tspan fill="#7B4F8E">&#x2192;</tspan> <tspan fill="#F48FB1">Data Engineer</tspan> <tspan fill="#7B4F8E">in progress</tspan></text>
+  <text x="50" y="150" font-family="Courier New, monospace" font-size="12" fill="#D9A0B2" style="fill:rgb(217, 160, 178);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">Web dev <tspan fill="#7A4055" style="fill:rgb(122, 64, 85);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">→</tspan> <tspan fill="#FACCD9" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">Data Engineer</tspan> <tspan fill="#7A4055" style="fill:rgb(122, 64, 85);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">in progress</tspan></text>
 
-  <!-- Divider line -->
-  <line x1="50" y1="155" x2="500" y2="155" stroke="#3a1050" stroke-width="1"/>
+  <line x1="50" y1="155" x2="500" y2="155" stroke="#3a1825" stroke-width="1" mask="url(#imagine-text-gaps-b7upa9)" style="fill:rgb(0, 0, 0);stroke:rgb(58, 24, 37);color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
 
-  <!-- Skill pills -->
-
-
-  <!-- Status pulse dot -->
-  <circle cx="690" cy="178" r="5" fill="#E91E8C">
-    <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
-    <animate attributeName="r" values="5;3.5;5" dur="1.8s" repeatCount="indefinite"/>
+  <circle cx="690" cy="178" r="5" fill="#FACCD9" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.755778;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <animate attributeName="r" values="5;3.5;5" dur="1.8s" repeatCount="indefinite" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
   </circle>
-  <text x="700" y="182" font-family="Courier New, monospace" font-size="10" fill="#F48FB1">always learning</text>
+  <text x="700" y="182" font-family="Courier New, monospace" font-size="10" fill="#FACCD9" style="fill:rgb(250, 204, 217);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Courier New, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto">always learning</text>
 </svg>
