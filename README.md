@@ -4,7 +4,7 @@
   <img src="assets/banner.svg" alt="Brigida's GitHub Banner" width="100%"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FACCD9¢er=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Data+Engineering+Enthusiast+%F0%9F%90%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FACCD9¢er=true&vCenter=true&width=600&lines=Backend+Developer;Data+Engineering+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -38,19 +38,14 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
 
 <img src="https://github-readme-stats-mu-virid-92.vercel.app/api?username=abindacarmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12&title_color=FACCD9&icon_color=D9A0B2&text_color=FACCD9&bg_color=1A0D12" height="180" alt="GitHub Stats"/>
 
-<img src="https://streak-stats.demolab.com?user=abindacarmo&theme=tokyonight&hide_border=true&hide_logo=true&ring=FACCD9&fire=FACCD9&currStreakLabel=D9A0B2&background=1A0D12&stroke=D9A0B2&dates=D9A0B2" height="180"/>
-
+<img src="https://streak-stats.demolab.com?user=abindacarmo&theme=tokyonight&hide_border=true&hide_logo=true&ring=FACCD9&fire=FACCD9&currStreakNum=FACCD9&sideNums=FACCD9&currStreakLabel=D9A0B2&sideLabels=D9A0B2&background=1A0D12&stroke=D9A0B2&dates=D9A0B2" height="180"/>
 </div>
 
 ---
-
-### 🐍 Contribution Graph
 
 <div align="center">
 
@@ -59,8 +54,6 @@
 </div>
 
 ---
-
-### 🐍 Snake
 
 <div align="center">
 
