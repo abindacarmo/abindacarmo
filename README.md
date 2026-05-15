@@ -21,18 +21,17 @@
 ---
 
 ### 🛠️ Tech Stack
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1A0D12?style=for-the-badge&logo=python&logoColor=FACCD9)
+![PHP](https://img.shields.io/badge/PHP-1A0D12?style=for-the-badge&logo=php&logoColor=FACCD9)
+![Laravel](https://img.shields.io/badge/Laravel-1A0D12?style=for-the-badge&logo=laravel&logoColor=D9A0B2)
+![MySQL](https://img.shields.io/badge/MySQL-1A0D12?style=for-the-badge&logo=mysql&logoColor=FACCD9)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A0D12?style=for-the-badge&logo=postgresql&logoColor=D9A0B2)
+![Kotlin](https://img.shields.io/badge/Kotlin-1A0D12?style=for-the-badge&logo=kotlin&logoColor=FACCD9)
+![Git](https://img.shields.io/badge/Git-1A0D12?style=for-the-badge&logo=git&logoColor=D9A0B2)
+![Linux](https://img.shields.io/badge/Linux-1A0D12?style=for-the-badge&logo=linux&logoColor=FACCD9)
+![VS Code](https://img.shields.io/badge/VS%20Code-1A0D12?style=for-the-badge&logo=visual-studio-code&logoColor=D9A0B2)
 
 </div>
 
