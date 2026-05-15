@@ -26,7 +26,7 @@ class Abinda
 
     public function __toString(): string
     {
-        return "<Abinda | {$this->role} | \"{$this->motto}\">";
+        return "<" . static::class . " | {$this->role} | \"{$this->motto}\">";
     }
 }
 
