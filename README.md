@@ -21,18 +21,18 @@ class Abinda
     public array  $learning = ["Python", "SQL", "Laravel"];
     public array  $skills   = ["PHP", "Kotlin", "Python", "SQL"];
     public string $os       = "Linux Mint 🐧";
-    public array  $hobbies  = ["Building things ⚙️", "Automotive 🚗"];
+    public array  $hobbies  = ["Building things ⚙️", "Automotive 🚗", "Music 🎵"];
     public string $motto    = "Build. Learn. Repeat.";
 
     public function __toString(): string
     {
-        return "<{$this->role} | \"{$this->motto}\">";
+        return "<Abinda | {$this->role} | \"{$this->motto}\">";
     }
 }
 
 $me = new Abinda();
 echo $me;
-// <Informatics Engineering Student | "Build. Learn. Repeat.">
+// <Abinda | Informatics Engineering Student | "Build. Learn. Repeat.">
 ```
 
 ---
