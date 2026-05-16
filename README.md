@@ -13,7 +13,7 @@
 ```php
 <?php
 
-class Abinda
+class Brigida
 {
     public string $role     = "Informatics Engineering Student";
     public string $school   = "UNTL — Faculty of Science & Technology";
@@ -30,9 +30,9 @@ class Abinda
     }
 }
 
-$me = new Abinda();
+$me = new Brigida();
 echo $me;
-// <Abinda | Informatics Engineering Student | "Build. Learn. Repeat.">
+// <Brigida | Informatics Engineering Student | "Build. Learn. Repeat.">
 ```
 
 ---
