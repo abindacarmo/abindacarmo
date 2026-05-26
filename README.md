@@ -32,6 +32,9 @@ class Brigida
 
 $me = new Brigida();
 echo $me;
+
+?>
+
 // <Brigida | Informatics Engineering Student | "Build. Learn. Repeat.">
 ```
 
