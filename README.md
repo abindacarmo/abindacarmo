@@ -18,7 +18,7 @@ class Brigida
     public string $role     = "Informatics Engineering Student";
     public string $school   = "UNTL — Faculty of Science & Technology";
     public array  $focus    = ["Data Engineering", "Full-Stack Dev", "System Builder"];
-    public array  $learning = ["Python", "SQL", "Laravel"];
+    public array  $learning = ["Python", "SQL", "Laravel", "Django"];
     public array  $skills   = ["PHP", "Kotlin", "Python", "SQL"];
     public string $os       = "Linux Mint 🐧";
     public array  $hobbies  = ["Building things ⚙️", "Automotive 🚗", "Music 🎵"];
