@@ -66,7 +66,8 @@ echo $me;
 ---
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abindacarmo&theme=tokyo-night&hide_border=true&color=F2C4CE&line=D9A0B2&point=F2C4CE&bg_color=1A0D12" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=abindacarmo&theme=tokyo-night&hide_border=true&color=F2C4CE&line=D9A0B2&point=F2C4CE&bg_color=1A0D12" /> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abindacarmo&theme=react&area=true&hide_border=true&color=F2C4CE&line=D9A0B2&point=F2C4CE&bg_color=1A0D12" alt="Activity Graph" />
 </div>
 
 ---
