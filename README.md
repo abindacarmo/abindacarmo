@@ -40,35 +40,18 @@ echo $me;
 
 ---
 
-### 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-1A0D12?style=for-the-badge&logo=python&logoColor=F2C4CE)
-![PHP](https://img.shields.io/badge/PHP-1A0D12?style=for-the-badge&logo=php&logoColor=F2C4CE)
-![Laravel](https://img.shields.io/badge/Laravel-1A0D12?style=for-the-badge&logo=laravel&logoColor=D9A0B2)
-![MySQL](https://img.shields.io/badge/MySQL-1A0D12?style=for-the-badge&logo=mysql&logoColor=F2C4CE)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A0D12?style=for-the-badge&logo=postgresql&logoColor=D9A0B2)
-![Kotlin](https://img.shields.io/badge/Kotlin-1A0D12?style=for-the-badge&logo=kotlin&logoColor=F2C4CE)
-![Git](https://img.shields.io/badge/Git-1A0D12?style=for-the-badge&logo=git&logoColor=D9A0B2)
-![Linux](https://img.shields.io/badge/Linux-1A0D12?style=for-the-badge&logo=linux&logoColor=F2C4CE)
-![VS Code](https://img.shields.io/badge/VS%20Code-1A0D12?style=for-the-badge&logo=visual-studio-code&logoColor=D9A0B2)
-
-</div>
-
----
-
-<div align="center">
-<img src="https://github-readme-stats-mu-virid-92.vercel.app/api?username=abindacarmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12&title_color=F2C4CE&icon_color=D9A0B2&text_color=F2C4CE&bg_color=1A0D12" height="180" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com?user=abindacarmo&theme=tokyonight&hide_border=true&hide_logo=true&ring=F2C4CE&fire=F2C4CE&currStreakNum=F2C4CE&sideNums=F2C4CE&currStreakLabel=D9A0B2&sideLabels=D9A0B2&background=1A0D12&stroke=D9A0B2&dates=D9A0B2" height="180"/>
-</div>
-
----
-
-<div align="center">
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=abindacarmo&theme=tokyo-night&hide_border=true&color=F2C4CE&line=D9A0B2&point=F2C4CE&bg_color=1A0D12" /> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abindacarmo&theme=react&area=true&hide_border=true&color=F2C4CE&line=D9A0B2&point=F2C4CE&bg_color=1A0D12" alt="Activity Graph" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-mu-virid-92.vercel.app/api?username=abindacarmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12&title_color=F2C4CE&icon_color=D9A0B2&text_color=F2C4CE&bg_color=1A0D12" width="400" alt="GitHub Stats"/>
+      <br/>
+      <img src="https://streak-stats.demolab.com?user=abindacarmo&theme=tokyonight&hide_border=true&hide_logo=true&ring=F2C4CE&fire=F2C4CE&currStreakNum=F2C4CE&sideNums=F2C4CE&currStreakLabel=D9A0B2&sideLabels=D9A0B2&background=1A0D12&stroke=D9A0B2&dates=D9A0B2" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=abindacarmo&theme=react&area=true&hide_border=true&color=F2C4CE&line=D9A0B2&point=F2C4CE&bg_color=1A0D12" alt="Activity Graph" width="600" />
+    </td>
+  </tr>
+</table>
 
 ---
 
