@@ -61,7 +61,7 @@ echo $me;
 
 <div align="center">
 
-*"Web dev → Data Engineer in progress"* ✨
+*"live for learning🍬"*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A0D12,D9A0B2,F2C4CE&height=100&section=footer&animation=fadeIn"/>
 </div>
