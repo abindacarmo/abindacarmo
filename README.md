@@ -56,12 +56,12 @@ echo $me;
 ---
 
 <div align="center">
-<img src="[https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/abindacarmo/abindacarmo/output/github-contribution-grid-snake-dark.svg)"/>
+  <img src="https://raw.githubusercontent.com/abindacarmo/abindacarmo/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 <div align="center">
 
 *"live for learning🍬"*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A0D12,D9A0B2,F2C4CE&height=100&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=100&section=footer&fontColor=F2C4CE"/>
 </div>
