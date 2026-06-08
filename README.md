@@ -9,33 +9,24 @@
 ---
 
 ### 👩‍💻 About Me
+```python
 
-```php
-<?php
+class Brigida:
+    role     = "Informatics Engineering Student"
+    school   = "UNTL — Faculty of Science & Technology"
+    focus    = ["Data Engineering", "Full-Stack Dev", "System Builder"]
+    learning = ["Python", "SQL", "Laravel", "Django"]
+    skills   = ["PHP", "Kotlin", "Python", "SQL"]
+    os       = "Linux Mint 🐧🌱"
+    hobbies  = ["Building things ⚙️", "Automotive 🚗", "Music 🎵"]
+    motto    = "Build. Learn. Repeat."
 
-class Brigida
-{
-    public string $role     = "Informatics Engineering Student";
-    public string $school   = "UNTL — Faculty of Science & Technology";
-    public array  $focus    = ["Data Engineering", "Full-Stack Dev", "System Builder"];
-    public array  $learning = ["Python", "SQL", "Laravel", "Django"];
-    public array  $skills   = ["PHP", "Kotlin", "Python", "SQL"];
-    public string $os       = "Linux Mint 🐧🌱";
-    public array  $hobbies  = ["Building things ⚙️", "Automotive 🚗", "Music 🎵"];
-    public string $motto    = "Build. Learn. Repeat.";
+    def __repr__(self) -> str:
+        return f"<{self.__class__.__name__} | {self.role} | \"{self.motto}\">"
 
-    public function __toString(): string
-    {
-        return "<" . static::class . " | {$this->role} | \"{$this->motto}\">";
-    }
-}
-
-$me = new Brigida();
-echo $me;
-
-?>
-
-// <Brigida | Informatics Engineering Student | "Build. Learn. Repeat.">
+me = Brigida()
+print(me)
+# <Brigida | Informatics Engineering Student | "Build. Learn. Repeat.">
 ```
 
 ---
