@@ -63,5 +63,4 @@ echo $me;
 
 *"live for learning🍬"*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=100&section=footer&fontColor=F2C4CE"/>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=background:1A0D12,D9A0B2,F2C4CE&height=100&section=footer"/></div>
