@@ -11,7 +11,7 @@
 ### 👩‍💻 About Me
 ```python
 
-class Brigidas:
+class Brigida:
     role     = "Informatics Engineering Student"
     school   = "UNTL — Faculty of Science & Technology"
     focus    = ["Data Engineering", "Full-Stack Dev", "System Builder"]
