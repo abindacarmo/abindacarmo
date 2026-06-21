@@ -52,6 +52,6 @@ print(me)
 
 <div align="center">
 
-*"live for learning🍬"*
+*"Never Late to Begin Something, So just do it!!!🍬"*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=background:1A0D12,D9A0B2,F2C4CE&height=100&section=footer"/></div>
