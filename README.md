@@ -18,7 +18,7 @@ class Brigida:
     learning = ["Python", "SQL", "Laravel", "Django"]
     skills   = ["PHP", "Kotlin", "Python", "SQL"]
     os       = "Linux Mint 🐧🌱"
-    hobbies  = ["Building things ⚙️", "Automotive🚗", "Music🎵"]
+    hobbies  = ["Building things⚙️", "Automotive🚗", "Music🎵"]
     motto    = "Build. Learn. Repeat."
 
     def __repr__(self) -> str:
