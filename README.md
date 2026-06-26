@@ -8,13 +8,13 @@
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 ```python
 
 class Brigida:
     role     = "Informatics Engineering Student"
     school   = "UNTL — Faculty of Science & Technology"
-    focus    = ["Data Engineering", "Full-Stack Dev", "System Builder"]
+    focus    = ["Data Engineering", "Full-Stack Dev"]
     learning = ["Python", "SQL", "Laravel", "Django"]
     skills   = ["PHP", "Kotlin", "Python", "SQL"]
     os       = "Linux Mint 🐧🌱"
@@ -52,6 +52,6 @@ print(me)
 
 <div align="center">
 
-*"Never Late to Begin Something, So just do it!!!🍬"*
+*"Never Late to Begin Something, So just do it!!!"*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=background:1A0D12,D9A0B2,F2C4CE&height=100&section=footer"/></div>
