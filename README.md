@@ -1,4 +1,5 @@
 <div align="center">
+<<<<<<< HEAD
 
 <!-- Wave top -->
 
@@ -356,72 +357,61 @@
 
 <!-- TYPING SVG — pink/purple theme -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E91E8C&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Data+Engineering+Enthusiast+%F0%9F%90%8D)](https://git.io/typing-svg)
+=======
+<p align="center">
+  <img src="assets/banner.svg" alt="Brigida's GitHub Banner" width="100%"/>
+</p>
+>>>>>>> ba5e09c425f8ea865d4967956c98a386a3ace13b
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F2C4CE&center=true&vCenter=true&width=600&lines=Backend+Developer;Data+Engineering+Enthusiast)](https://git.io/typing-svg)
 </div>
 
 ---
 
-### 👩‍💻 About Me
+### About Me
+```python
 
-- 🔭 I'm currently studying **Information Technology** at UNTL, Faculty of Science & Technology
-- 🐍 I'm currently learning **Python** and **SQL** for data engineering
-- 🌱 I'm always learning and improving my skills
-- 💬 Ask me about **Python** and **PHP**
-- ⚡ Fun fact: I love building things behind the scenes and I love automotive!
+class Brigida:
+    role     = "Informatics Engineering Student"
+    school   = "UNTL — Faculty of Science & Technology"
+    focus    = ["Data Engineering", "Full-Stack Dev"]
+    learning = ["Python", "SQL", "Laravel", "Django"]
+    skills   = ["PHP", "Kotlin", "Python", "SQL"]
+    os       = "Linux Mint 🐧🌱"
+    hobbies  = ["Building things⚙️", "Automotive🚗", "Music🎵"]
+    motto    = "Build. Learn. Repeat."
 
----
+    def __repr__(self) -> str:
+        return f"<{self.__class__.__name__} | {self.role} | \"{self.motto}\">"
 
-### 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+me = Brigida()
+print(me)
+# <Brigida | Informatics Engineering Student | "Build. Learn. Repeat.">
+```
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-mu-virid-92.vercel.app/api?username=abindacarmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12&title_color=E91E8C&icon_color=9C27B0&text_color=CE93D8&bg_color=1E0A2E" height="180" alt="GitHub Stats"/>
-
-<img src="https://streak-stats.demolab.com?user=abindacarmo&theme=tokyonight&hide_border=true&hide_logo=true&ring=E91E8C&fire=F48FB1&currStreakLabel=CE93D8&background=1E0A2E&stroke=9C27B0&dates=CE93D8" height="180"/>
-
-</div>
-
----
-
-### 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abindacarmo&theme=tokyo-night&hide_border=true&color=E91E8C&line=9C27B0&point=F48FB1" />
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-mu-virid-92.vercel.app/api?username=abindacarmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12&title_color=F2C4CE&icon_color=D9A0B2&text_color=F2C4CE&bg_color=1A0D12" width="400" alt="GitHub Stats"/>
+      <br/>
+      <img src="https://streak-stats.demolab.com?user=abindacarmo&theme=tokyonight&hide_border=true&hide_logo=true&ring=F2C4CE&fire=F2C4CE&currStreakNum=F2C4CE&sideNums=F2C4CE&currStreakLabel=D9A0B2&sideLabels=D9A0B2&background=1A0D12&stroke=D9A0B2&dates=D9A0B2" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=abindacarmo&theme=react&area=true&hide_border=true&color=F2C4CE&line=D9A0B2&point=F2C4CE&bg_color=1A0D12" alt="Activity Graph" width="600" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🐍 Snake
- 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/abindacarmo/abindacarmo/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
-
 
 <div align="center">
 
-*"Web dev → Data Engineer in progress"* ✨
+*"Never Late to Begin Something, So just do it!!!"*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer&animation=fadeIn"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=background:1A0D12,D9A0B2,F2C4CE&height=100&section=footer"/></div>
