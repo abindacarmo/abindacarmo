@@ -48,11 +48,6 @@ print(me)
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abindacarmo/abindacarmo/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<div align="center">
 
 *"Never Late to Begin Something, So just do it!!!"*
 
