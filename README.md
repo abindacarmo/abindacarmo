@@ -19,7 +19,7 @@ class Brigida:
     focus    = ["Data Engineering", "Full-Stack Dev"]
     learning = ["Python", "SQL", "Laravel", "Django"]
     skills   = ["PHP", "Kotlin", "Python", "SQL"]
-    os       = "Linux Mint 🐧🌱"
+    os       = "Linux Mint🐧🌱"
     hobbies  = ["Building things⚙️", "Music🎵"]
     motto    = "Build. Learn. Repeat."
 
