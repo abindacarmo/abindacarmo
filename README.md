@@ -15,7 +15,7 @@
 
 class Brigida:
     role     = "Informatics Engineering Student"
-    school   = "UNTL — Faculty of Science & Technology"
+    school   = "UNTL, Faculty of Science & Technology"
     focus    = ["Data Engineering", "Full-Stack Dev"]
     learning = ["Python", "SQL", "Laravel", "Django"]
     skills   = ["PHP", "Kotlin", "Python", "SQL"]
