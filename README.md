@@ -13,7 +13,8 @@
 ### About Me
 ```python
 
-class Brigida:
+class Me:
+    name     = "Brigida"
     role     = "Informatics Engineering Student"
     school   = "UNTL, Faculty of Science & Technology"
     focus    = ["Data Engineering", "Full-Stack Dev"]
@@ -24,9 +25,9 @@ class Brigida:
     motto    = "Build. Learn. Repeat."
 
     def __repr__(self) -> str:
-        return f"<{self.__class__.__name__} | {self.role} | \"{self.motto}\">"
+        return f"<{self.name} | {self.role} | \"{self.motto}\">"
 
-me = Brigida()
+me = Me()
 print(me)
 # <Brigida | Informatics Engineering Student | "Build. Learn. Repeat.">
 ```
