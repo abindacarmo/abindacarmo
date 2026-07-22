@@ -21,7 +21,7 @@ class Me:
     learning = ["Python", "SQL", "Laravel", "Django"]
     skills   = ["PHP", "Kotlin", "Python", "SQL"]
     os       = "Linux Mint🐧🌱"
-    hobbies  = ["Building things⚙️", "Music🎵"]
+    hobbies  = ["Developing", "Music🎵"]
     motto    = "Build. Learn. Repeat."
 
     def __repr__(self) -> str:
