@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="assets/banner.svg" alt="Brigida's GitHub Banner" width="100%"/>
+  <img src="assets/banner.svg" alt="abinda's GitHub Banner" width="100%"/>
 </p>
 
 
