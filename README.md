@@ -18,7 +18,7 @@ class Me:
     role     = "Informatics Engineering Student"
     school   = "UNTL, Faculty of Science & Technology"
     focus    = ["Data Engineering", "Full-Stack Dev"]
-    learning = ["Python", "SQL", "Laravel", "Django"]
+    learning = ["Python", "SQL", "Django"]
     skills   = ["PHP", "Kotlin", "Python", "SQL"]
     os       = "Linux Mint🐧🌱"
     hobbies  = ["Developing", "Music🎵"]
