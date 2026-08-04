@@ -16,12 +16,7 @@
 class Me:
     name     = "Brigida"
     role     = "Informatics Engineering Student"
-    school   = "UNTL, Faculty of Science & Technology"
     focus    = ["Data Engineering", "Full-Stack Dev"]
-    learning = ["Python", "SQL", "Laravel", "Django"]
-    skills   = ["PHP", "Kotlin", "Python", "SQL"]
-    os       = "Linux Mint🐧🌱"
-    hobbies  = ["Developing", "Music🎵"]
     motto    = "Build. Learn. Repeat."
 
     def __repr__(self) -> str:
