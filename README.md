@@ -14,7 +14,7 @@
 ```python
 
 class Me:
-    name     = "Brigida "
+    name     = "Brigida"
     role     = "Informatics Engineering Student"
     focus    = ["Data Engineering", "Full-Stack Dev"]
     motto    = "Build. Learn. Repeat."
