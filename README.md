@@ -14,7 +14,7 @@
 ```python
 
 class Me:
-    name     = "Brigida carmo"
+    name     = "Brigida Carmo"
     role     = "Informatics Engineering Student"
     focus    = ["Data Engineering", "Full-Stack Dev"]
     motto    = "Build. Learn. Repeat."
@@ -24,7 +24,7 @@ class Me:
 
 me = Me()
 print(me)
-# <Brigida | Informatics Engineering Student | "Build. Learn. Repeat.">
+# <Brigida Carmo | Informatics Engineering Student | "Build. Learn. Repeat.">
 ```
 
 ---
