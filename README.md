@@ -24,7 +24,7 @@ class Me:
 
 me = Me()
 print(me)
-# <Brigida Carmo | Informatics Engineering Student | "Build. Learn. Repeat.">
+# <Brigida | Informatics Engineering Student | "Build. Learn. Repeat.">
 ```
 
 ---
