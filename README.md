@@ -41,6 +41,9 @@ print(me)
 </table>
 
 
-*"Never Late to Begin Something, So just do it!!!"*
+*"Never Late to Begin Something, So just do it!!!"* <br>
+*"At least, i do it for my self!!!"* <br>
+*"Just wanna be whoever i wanna be!!!"*
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=background:1A0D12,D9A0B2,F2C4CE&height=100&section=footer"/></div>
