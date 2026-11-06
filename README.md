@@ -13,18 +13,25 @@
 ### About Me
 ```python
 
-class Me:
-    name     = "Brigida"
-    role     = "Informatics Engineering Student"
-    focus    = ["Data Engineering", "Full-Stack Dev"]
-    motto    = "Build. Learn. Repeat."
+class Brigida:
+    role = "Informatics Engineering Student"
+    focus = ["Data Engineering", "Full-Stack Dev"]
+    stack = ["Python", "Django", "SQL", "PostgreSQL"]
 
-    def __repr__(self) -> str:
-        return f"<{self.name} | {self.role} | \"{self.motto}\">"
+    def build(self):  return "ship something real"
+    def learn(self):  return "understand why it works"
+    def repeat(self): return "do it again, better"
 
-me = Me()
+    def __iter__(self):
+        yield from (self.build(), self.learn(), self.repeat())
+
+    def __repr__(self):
+        return f"<Brigida | {self.role} | Build. Learn. Repeat.>"
+
+me = Brigida()
 print(me)
-# <Brigida | Informatics Engineering Student | "Build. Learn. Repeat.">
+for step in me:
+    print("→", step)
 ```
 
 ---
