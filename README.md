@@ -13,7 +13,7 @@
 ### About Me
 ```python
 
-class Brigida:
+class Brigida_Carmo:
     role = "Informatics Engineering Student"
     focus = ["Data Engineering", "Full-Stack Dev"]
     stack = ["Python", "Django", "SQL", "PostgreSQL"]
